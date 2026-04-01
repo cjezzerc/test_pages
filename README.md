@@ -1,5 +1,3 @@
-testing testing
-
 # RSC – C+RD – Weekly Report  [RSC-PH1]
 
 # Template note
