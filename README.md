@@ -1,5 +1,6 @@
 # RSC – C+RD – Weekly Report  [RSC-PH1]
 
+[to the other](temp.md)
 # Template note
 
 This is a template phenotype used in creating the weekly RCGP RSC Communicable and Respiratory Diseases for England report. The specific disease of interest is defined by specifying the codelist in the table below.
